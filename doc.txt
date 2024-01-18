@@ -2,4 +2,4 @@ Este es un primer ejemplo
 
 Realizo un nuevo cambio
 
-Hago un nuevo cambio que seria el tercero 
+Actualizando el archivo despues de un git checkout
